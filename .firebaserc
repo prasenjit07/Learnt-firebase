@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-first-project-1ef53": {
+      "hosting": {
+        "angularfs": [
+          "my-first-project-1ef53"
+        ]
+      }
+    }
+  }
+}
